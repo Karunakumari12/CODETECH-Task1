@@ -13,9 +13,11 @@ MENTOR:Neela Santhosh Kumar
 **Overview of the Basic Calculator Project**
 
 **Objective**
+
 The goal of this project is to create a simple, interactive calculator program in Python. The calculator will allow users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 **Features**
+
 User Input: The program will prompt the user to enter two numbers.
 Operation Selection: The user will be able to select an operation from the following:
 Addition (+)
@@ -24,11 +26,14 @@ Multiplication (*)
 Division (/)
 Result Display: The program will perform the selected operation on the two numbers and display the result to the user.
 Error Handling: The program will handle division by zero by displaying an appropriate error message.
+
 **Components**
+
 **1)Input Handling:**
 
 The program will use the input() function to receive numbers and operation choice from the user.
 Input validation is minimal, assuming users will input numbers correctly.
+
 **2)Operations:**
 
 Addition: Adds two numbers.
@@ -42,7 +47,9 @@ The result is calculated and printed to the console.
 Error Handling:
 
 Division by zero is handled by checking if the second number is zero before performing the division.
+
 **3)Implementation:**
+
 The program consists of a single function, calculator(), which encapsulates all the functionality:
 
 Step 1: Prompt the user to enter the first number.
