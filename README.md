@@ -50,6 +50,8 @@ Step 2: Prompt the user to enter the second number.
 Step 3: Display the available operations and prompt the user to choose one.
 Step 4: Perform the chosen operation and display the result.
 Step 5: Handle division by zero by checking if the denominator is zero and displaying an error message if it is.
+
 **4)Example Usage:**
+
 <img width="437" alt="image" src="https://github.com/user-attachments/assets/4b96bc9e-ef3b-4e58-8fea-b8580aa6edb8">
 
